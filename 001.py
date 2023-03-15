@@ -1,9 +1,5 @@
 import math
 
-
-
-
-
 print('test')
 print('1'+'2')
 print('Hel\nl0')
@@ -37,5 +33,17 @@ print(calcure3)
 print(calcure4)
 
 
+# 字符类型
+my_wife = 'nbfnbfnfnbfibnfibnfbfbfb'
+print(len(my_wife))
+print(my_wife[1])
 
+bi = True
+bi1 = False
 
+# 空值
+none = None
+print(type(none))
+print(type(bi))
+print(type(5.1515110))
+print(type(5))
